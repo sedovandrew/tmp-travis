@@ -1,6 +1,8 @@
 Role Name
 =========
 
+[![Build Status](https://travis-ci.org/sedovandrew/tmp-travis.svg?branch=master)](https://travis-ci.org/sedovandrew/tmp-travis)
+
 A brief description of the role goes here.
 
 Requirements
